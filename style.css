@@ -1,0 +1,33 @@
+.dv_lar {
+    background-color: #FF7F00;
+    width: 500px; 
+    height: 500px;
+}
+
+.dv_verd {
+    background-color: #90EE90; 
+    width: 50%; 
+    height:50%;
+}
+
+p{
+    color: #FFFFFF; 
+    background-color: #FF0000; 
+    font-size: 25px; 
+    font-family: monospace; 
+    font-weight: bold;
+}
+
+.dv_az {
+    width:50%;
+    height:50vh;
+    background-color: rgb(93, 195, 253);
+}
+
+.div_verm {
+    width:75vw;
+    height:50%; 
+    background-color:rgb(255, 0, 0);
+}
+
+
